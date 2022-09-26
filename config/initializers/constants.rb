@@ -1,2 +1,2 @@
-EMAIL_REGEX = /^[a-z.]+\@joshsoftware\.(com|digital)$/i
-GENDER_REGEX = /^(M|F)$/
+EMAIL_REGEX = /\A[a-z.]+\@joshsoftware\.(com|digital)\z/i
+GENDER_REGEX = /\A(M|F)\z/

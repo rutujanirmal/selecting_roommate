@@ -31,3 +31,14 @@
 
 en:
   hello: "Hello world"
+  user:
+    not_found: "User not found"
+    everyone_booked: "Everyone is already booked"
+  room:
+    already_booked: "Room already booked"
+  email:
+    not_valid: "Email not valid. Use joshsoftware email"
+    not_found: "Email not found"
+  session:
+    invalid: "Token is invalid"
+

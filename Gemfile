@@ -17,7 +17,7 @@ gem 'puma', '~> 4.1'
 # gem 'bcrypt', '~> 3.1.7'
 
 # For authentication
-gem 'devise_token_auth'
+gem 'jwt'
 
 # For documentation
 gem 'rspec_api_documentation'
